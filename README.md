@@ -1,0 +1,9 @@
+- [x] REACTOME Pathway interpretation
+- [x] Look up how to interpret signaling pathways
+- [x] Write more detailed method section for REACTOME
+- [x] Write result section for REACTOME
+- [ ] Finish the discussion section
+- [ ] Finish the conclusion section
+- [ ] Finish the introduction section
+- [ ] Start doing Chinese HW
+- [ ] Do MATH
